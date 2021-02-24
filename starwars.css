@@ -1,4 +1,3 @@
-<!-- comment -->
 /* Layout Stuff */
 * {
   box-sizing: border-box;
@@ -14,10 +13,10 @@
   align-items: center;
 }
 #light {
-  background: #e8e8e8;
+  background: #fffbf2;
 }
 #dark {
-  background: #131313;
+  background: #4f4f4f;
 }
 .container {
   display: flex;
@@ -351,7 +350,7 @@
   left: 30%;
   width: 10px;
   height: 0;
-  background: #4fc3f7;
+  background: #5996ff;
   z-index: 10;
   border-radius: 4px 4px 0 0;
   transform: rotate(30deg);
@@ -737,7 +736,7 @@
   left: 70px;
   width: 80px;
   height: 100px;
-  background: #902d2c;
+  background: #e53935;
   border-radius: 0 20px 0 100%;
   z-index: 5;
   overflow: hidden;
