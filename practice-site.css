@@ -1,0 +1,22 @@
+body {
+    background-color: whitesmoke;
+    text-align: left
+  }
+  
+  h1 {
+    background-color: steelblue;
+    font-family: helvetica;
+    font-size: 20px;
+    ;
+  }
+  
+  h2 {
+    background-color: lightsteelblue;
+    font-family: helvetica;
+    font-size: 16px;
+  }
+  
+  p {
+    font-family: Arial;
+    font-size: 14px;
+  }
