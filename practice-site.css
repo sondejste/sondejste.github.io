@@ -11,6 +11,9 @@
     font-family: Georgia, serif;
     font-size: 20px;
     text-align: center;
+    margin-top: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
   }
   
   h2 {
@@ -18,28 +21,38 @@
     font-family: Georgia, serif;
     font-size: 12px;
     text-align: left;
+    margin-right: 150px;
+    margin-left: 80px;
   }
 
   h3 {
    font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     text-align: center;
+    margin-right: 150px;
+    margin-left: 80px;
   }
 
   h4 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     text-align: center;
+    margin-right: 150px;
+    margin-left: 80px;
   }
   
   p {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     text-align: left;
+    margin-right: 150px;
+    margin-left: 80px;
   }
 
   ul {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     text-align: left;
+    margin-right: 150px;
+    margin-left: 80px;
   }
