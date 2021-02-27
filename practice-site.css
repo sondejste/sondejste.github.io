@@ -1,11 +1,5 @@
   /* color and layout */
   
-  .welcome_message{
-    width: 85%;
-    padding: 64px 32px;
-    justify-content: center;
-  }
-
   h1 {
     background-color: steelblue;
     font-family: Georgia, serif;
