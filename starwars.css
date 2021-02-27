@@ -13,11 +13,9 @@
   align-items: center;
 }
 #light {
-  background-color: #fffbf2;
   background-image: linear-gradient(lightsteelblue, #fffbf2);
 }
 #dark {
-  background-color: #4f4f4f;
   background-image: linear-gradient(red, #4f4f4f);
 }
 .container {
