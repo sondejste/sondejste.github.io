@@ -8,38 +8,38 @@ body {
     background-color: steelblue;
     font-family: Helvetica;
     font-size: 20px;
-    text-align: center
+    text-align: center;
   }
   
   h2 {
     background-color: lightsteelblue;
     font-family: Helvetica;
     font-size: 16px;
-    text-align: left
+    text-align: left;
   }
 
   h3 {
     background-color: lightsteelblue;
     font-family: Arial;
     font-size: 16px;
-    text-align: center
+    text-align: center;
   }
 
   h4 {
     background-color: lightsteelblue;
     font-family: Arial;
     font-size: 16px;
-    text-align: center
+    text-align: center;
   }
   
   p {
     font-family: Arial;
     font-size: 14px;
-    text-align: left
+    text-align: left;
   }
 
-  li {
+  ul {
     font-family: Arial;
     font-size: 14px;
-    text-align: left
+    text-align: left;
   }
